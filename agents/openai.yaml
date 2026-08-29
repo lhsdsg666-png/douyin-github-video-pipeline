@@ -1,0 +1,6 @@
+interface:
+  display_name: "抖音 GitHub 视频流水线"
+  short_description: "自动完成高价值GitHub项目选题、实测、剪辑、质检和抖音交付"
+  default_prompt: "Use $douyin-github-video-pipeline to produce the next high-value GitHub project Douyin video and resume from saved episode state."
+policy:
+  allow_implicit_invocation: true
